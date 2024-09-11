@@ -1,0 +1,19 @@
+h1 {
+   text-align: center;
+    color: darkgreen;
+    border-style: double;
+ }
+ p{
+    color: brown;
+    border-style: double;
+    border-color:#000000f9 ;
+ }
+ img{
+   height:300px ;
+ }
+ table, th, td{
+    
+         border: 1px solid brown; 
+      }
+
+ 
